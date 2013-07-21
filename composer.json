@@ -14,8 +14,8 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "monolog/monolog": "1.0.*",
-        "fluent/logger": "0.1.0"
+        "monolog/monolog": "1.5.*",
+        "fluent/logger": "0.3.7"
     },
     "autoload": {
         "psr-0": {"Nrk\\Fluent\\Monolog": "src/"}
